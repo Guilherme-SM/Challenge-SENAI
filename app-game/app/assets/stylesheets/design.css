@@ -1,0 +1,24 @@
+/* Equipe de Design fica responsável pelo CSS
+ * Pontos (.) representam Classe
+ * Sustenidos (#) representam Id
+ */
+.container {
+	padding: 1em;
+	color: #111;
+	background-color: #DDD;
+	font-family: verdana;
+	font-size: 24px;
+	text-align: center;
+}
+#div {
+	font-family: verdana;
+	font-size: 18px;
+}
+.navbar {
+    padding: 1em;
+	color: #111;
+	background-color: #DDD;
+	font-family: verdana;
+	font-size: 20px;
+	text-align: center;
+}
